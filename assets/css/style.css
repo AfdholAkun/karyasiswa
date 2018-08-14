@@ -1,0 +1,78 @@
+#table-detail tr th {
+    vertical-align: middle;
+}
+#tables tr td {
+    vertical-align: middle;
+}
+.navjay{
+	margin-top: 15px;
+	margin-bottom: 15px;
+}
+.text-merah{
+	color: red;
+}
+.text-hijau{
+	color: green;
+}
+.slot{
+    margin-bottom: 15px;
+}
+.info-valid{
+    font-size: 7pt;
+    margin-bottom: 20px;
+}
+.table-transaksi{
+    width: 100%;
+}
+.table-transaksi tr th{
+    padding:5px 0px;
+}
+@media (max-width: 768px) {
+    
+    .dataTables_filter{
+        text-align: left;
+        font-size: 11pt;
+    }
+    .dataTables_filter .form-control{
+        width: 60%;
+    }
+
+    .dtlp  thead tr th{
+        font-size:10pt;
+    }
+    .dtlp tbody tr td{
+        font-size:9pt;
+    }
+
+    .struck{
+        height: 400px;
+    }
+	
+}
+@media (min-width: 768px) {
+
+    .dtlp  thead tr th{
+        font-size:10pt;
+    }
+    .dtlp tbody tr td{
+        font-size:9pt;
+    }
+
+    .struck{
+        height:780px;
+    }
+    
+}
+
+#loader {
+    position:fixed;
+    left:0px;
+    top:0px;
+    width:100%;
+    height:100%;
+    z-index: 9999;
+    background: url('../gif-loading/loading/4.gif' )50% 50% no-repeat rgb(249,249,249);
+    opacity: 1;
+}
+.logo-kementrian{
+}

@@ -1,0 +1,103 @@
+.table_small{
+    border-collapse: collapse;
+}
+.table_small {
+    border: 1px solid black;
+}
+h2{
+    text-align: center;
+}
+.table_small thead tr th{
+    background: #e1e1e1;
+    font-size: 10pt;
+}
+.table_small th{
+    padding: 3px 3px;
+}
+.table_small td{
+    padding: 2px 3px;
+}
+
+.table_small tbody tr td{
+    font-size: 10pt;
+}
+
+.sub_judul{
+    font-size: 9pt;
+}
+.tanggal{
+    font-size: 10pt;
+}
+.title{
+    font-size:12pt;
+}
+
+.table_medium{
+    border-collapse: collapse;
+}
+.table_medium {
+    border: 1px solid black;
+}
+.table_medium thead tr th{
+    background: #e1e1e1;
+    font-size: 11pt;
+}
+.table_medium th{
+    padding: 3px 1px;
+}
+
+.table_medium tbody tr td{
+    font-size: 10pt;
+}
+
+.table_transaksi{
+    border-collapse: collapse;
+}
+.table_transaksi {
+    border: 1px solid black;
+}
+.table_transaksi thead tr th{
+    font-size: 10pt;
+}
+.table_transaksi th{
+    padding: 3px 1px;
+}
+
+.table_transaksi tbody tr td{
+    font-size: 10pt;
+    text-align: center;
+}
+
+
+.table_big{
+    border-collapse: collapse;
+}
+.table_big {
+    border: 1px solid black;
+}
+.table_big thead tr th{
+    background: #e1e1e1;
+    font-size: 11pt;
+}
+.table_big th{
+    padding: 3px 1px;
+}
+
+.table_big tbody tr td{
+    font-size: 11pt;
+}
+.data_transaksi th{
+    font-size: 11pt;
+}
+
+
+.left{
+    text-align:left;
+    vertical-align: top;
+}
+.right{
+    text-align:right;
+}
+.center{
+    text-align: center;
+}
